@@ -21,7 +21,7 @@ print("Using device:", device)
 # Ensure your folder structure is:
 # /content/data/real/   <-- 1000 real images
 # /content/data/fake/   <-- 1000 fake images
-data_dir = '/content/drive/MyDrive/data'
+data_dir = 'give your file path'
 
 # Define data transformations
 data_transforms = {
